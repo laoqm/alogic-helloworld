@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>	
+	
+    <!-- 服务目录配置  -->
+    <parameter id="servant.config.master" value="java:///conf/servant.catalog.xml#App" final="true"/>
+		
+</settings>
+

@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<scheduler module="com.alogic.timer.core.Scheduler$XMLed">
+    <committer module="com.alogic.timer.core.ThreadPoolTaskCommitter"/>
+    <!-- 这是定时器配置文件，暂时为空 -->
+</scheduler>
